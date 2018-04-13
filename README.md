@@ -1,4 +1,4 @@
-# Angular2_RouteReuseStrategy
+# Angular4_RouteReuseStrategy
 
 To run this application, you need nodejs and npm installed on your system. Then, run the following commands from your command prompt:
 
